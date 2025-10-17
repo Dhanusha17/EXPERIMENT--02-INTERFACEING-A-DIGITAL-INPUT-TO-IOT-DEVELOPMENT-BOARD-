@@ -1,16 +1,16 @@
-###  DATE: 12/09/2025
-
 ###  NAME: DHANUSHA K
 ###  ROLL NO :212223040034
-###  DEPARTMENT: B.E(CSE)
+###  DEPARTMENT:B.E CSE
 
 
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
  
+
 ## Aim: To Interface a Digital Input  (IR pair ) to ARM IOT development board and write a  program to obtain  the data 
 ## Components required: STM32 CUBE IDE, ARM IOT development board,  STM programmer tool.
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
+
  
  # IR pair 
  
@@ -289,11 +289,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-# LED when there is no Obstacle found:
-![WhatsApp Image 2025-10-17 at 08 42 00_442ef531](https://github.com/user-attachments/assets/6005a54d-00a7-4294-9139-7803006fe9c8)
 
-# LED when Obstacle found:
-![WhatsApp Image 2025-10-17 at 08 42 10_6bef51ac](https://github.com/user-attachments/assets/76597736-4979-4d62-8370-1b064a35e90f)
+<img width="500" height="395" alt="image" src="https://github.com/user-attachments/assets/8069cd80-295b-44c6-b4d2-be90a94215e4" />
 
+ 
+ 
+ 
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
