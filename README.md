@@ -289,12 +289,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+# LED when there is no Obstacle found:
+![WhatsApp Image 2025-10-17 at 08 42 00_442ef531](https://github.com/user-attachments/assets/6005a54d-00a7-4294-9139-7803006fe9c8)
 
-![WhatsApp Image 2025-09-26 at 20 08 23_c96769ed](https://github.com/user-attachments/assets/df6efd0e-f98f-4ea7-9ecf-678858fb4013)
+# LED when Obstacle found:
+![WhatsApp Image 2025-10-17 at 08 42 10_6bef51ac](https://github.com/user-attachments/assets/76597736-4979-4d62-8370-1b064a35e90f)
 
-
- 
- 
- 
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
